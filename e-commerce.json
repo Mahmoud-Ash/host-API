@@ -1,5 +1,4 @@
 {
-  "products": [
     {
       "id": 1,
       "img": "https://img.freepik.com/free-photo/still-life-rendering-jackets-display_23-2149745033.jpg?t=st=1726605609~exp=1726609209~hmac=5e0b949481f9480f52c0e266a513ed1e78df17c696a60714288fcf8eda6d42ce&w=740"
@@ -40,5 +39,4 @@
       "id": 10,
       "img": "https://img.freepik.com/free-photo/empty-purple-baseball-green-white_1203-5374.jpg?t=st=1726927537~exp=1726931137~hmac=729e55bf3b144f1859baf2d1b1208fad6ba8156591305a884bb4d8106a267d02&w=1800"
     }
-  ]
 }
