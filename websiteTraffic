@@ -1,0 +1,104 @@
+[
+  {
+    "website": "Google",
+    "traffic": {
+      "January": 5000000000,
+      "February": 4800000000,
+      "March": 5100000000,
+      "April": 4900000000,
+      "May": 5200000000,
+      "June": 5300000000,
+      "July": 5400000000,
+      "August": 5500000000,
+      "September": 5200000000,
+      "October": 5100000000,
+      "November": 4900000000,
+      "December": 5000000000
+    }
+  },
+  {
+    "website": "YouTube",
+    "traffic": {
+      "January": 3000000000,
+      "February": 2900000000,
+      "March": 3100000000,
+      "April": 3000000000,
+      "May": 3200000000,
+      "June": 3300000000,
+      "July": 3400000000,
+      "August": 3500000000,
+      "September": 3200000000,
+      "October": 3100000000,
+      "November": 3000000000,
+      "December": 3100000000
+    }
+  },
+  {
+    "website": "Instagram",
+    "traffic": {
+      "January": 2000000000,
+      "February": 1900000000,
+      "March": 2100000000,
+      "April": 2000000000,
+      "May": 2200000000,
+      "June": 2300000000,
+      "July": 2400000000,
+      "August": 2500000000,
+      "September": 2200000000,
+      "October": 2100000000,
+      "November": 2000000000,
+      "December": 2100000000
+    }
+  },
+  {
+    "website": "Pinterest",
+    "traffic": {
+      "January": 1000000000,
+      "February": 950000000,
+      "March": 1100000000,
+      "April": 1050000000,
+      "May": 1150000000,
+      "June": 1200000000,
+      "July": 1250000000,
+      "August": 1300000000,
+      "September": 1100000000,
+      "October": 1050000000,
+      "November": 1000000000,
+      "December": 1050000000
+    }
+  },
+  {
+    "website": "Facebook",
+    "traffic": {
+      "January": 4000000000,
+      "February": 3900000000,
+      "March": 4100000000,
+      "April": 4000000000,
+      "May": 4200000000,
+      "June": 4300000000,
+      "July": 4400000000,
+      "August": 4500000000,
+      "September": 4200000000,
+      "October": 4100000000,
+      "November": 4000000000,
+      "December": 4100000000
+    }
+  },
+  {
+    "website": "Twitter",
+    "traffic": {
+      "January": 2500000000,
+      "February": 2400000000,
+      "March": 2600000000,
+      "April": 2500000000,
+      "May": 2700000000,
+      "June": 2800000000,
+      "July": 2900000000,
+      "August": 3000000000,
+      "September": 2700000000,
+      "October": 2600000000,
+      "November": 2500000000,
+      "December": 2600000000
+    }
+  }
+]
