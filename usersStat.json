@@ -1,4 +1,4 @@
-{ "usersData": [
+{ "usersData": [ 
   { "month": "January", "thisYear": 4000, "lastYear": 2400 }, 
   { "month": "February", "thisYear": 3000, "lastYear": 2210 }, 
   { "month": "March", "thisYear": 2000, "lastYear": 2290 }, 
@@ -9,6 +9,5 @@
   { "month": "August", "thisYear": 2000, "lastYear": 2100 }, 
   { "month": "September", "thisYear": 2780, "lastYear": 2600 }, 
   { "month": "October", "thisYear": 1890, "lastYear": 2300 }, 
-  { "month": "November", "thisYear": 2390, "lastYear": 2900 }, 
-  { "month": "December", "thisYear": 3490, "lastYear": 3200 }
-]}
+  { "month": "November", "thisYear": 2390, "lastYear": 2900 },
+  { "month": "December", "thisYear": 3490, "lastYear": 3200 } ] }
