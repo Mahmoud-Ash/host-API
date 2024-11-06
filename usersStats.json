@@ -1,14 +1,14 @@
 [ 
-  { "month": "January", "thisYear": 4000, "lastYear": 2400 }, 
-  { "month": "February", "thisYear": 3000, "lastYear": 2210 }, 
-  { "month": "March", "thisYear": 2000, "lastYear": 2290 }, 
-  { "month": "April", "thisYear": 2780, "lastYear": 2000 }, 
+  { "month": "Jan", "thisYear": 4000, "lastYear": 2400 }, 
+  { "month": "Feb", "thisYear": 3000, "lastYear": 2210 }, 
+  { "month": "Mar", "thisYear": 2000, "lastYear": 2290 }, 
+  { "month": "Apr", "thisYear": 2780, "lastYear": 2000 }, 
   { "month": "May", "thisYear": 1890, "lastYear": 2181 }, 
-  { "month": "June", "thisYear": 2390, "lastYear": 2500 }, 
-  { "month": "July", "thisYear": 3490, "lastYear": 2100 }, 
-  { "month": "August", "thisYear": 2000, "lastYear": 2100 }, 
-  { "month": "September", "thisYear": 2780, "lastYear": 2600 }, 
-  { "month": "October", "thisYear": 1890, "lastYear": 2300 }, 
-  { "month": "November", "thisYear": 2390, "lastYear": 2900 },
-  { "month": "December", "thisYear": 3490, "lastYear": 3200 } 
+  { "month": "Jun", "thisYear": 2390, "lastYear": 2500 }, 
+  { "month": "Jul", "thisYear": 3490, "lastYear": 2100 }, 
+  { "month": "Aug", "thisYear": 2000, "lastYear": 2100 }, 
+  { "month": "Sep", "thisYear": 2780, "lastYear": 2600 }, 
+  { "month": "Oct", "thisYear": 1890, "lastYear": 2300 }, 
+  { "month": "Nov", "thisYear": 2390, "lastYear": 2900 },
+  { "month": "Dec", "thisYear": 3490, "lastYear": 3200 } 
 ] 
