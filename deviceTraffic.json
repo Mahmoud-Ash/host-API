@@ -1,6 +1,6 @@
 [
   {
-    "device": "Linux",
+    "name": "Linux",
     "traffic": {
       "January": 5000,
       "February": 4800,
@@ -17,7 +17,7 @@
     }
   },
   {
-    "device": "Mac",
+    "name": "Mac",
     "traffic": {
       "January": 15000,
       "February": 14800,
@@ -34,7 +34,7 @@
     }
   },
   {
-    "device": "iOS",
+    "name": "iOS",
     "traffic": {
       "January": 25000,
       "February": 24800,
@@ -51,7 +51,7 @@
     }
   },
   {
-    "device": "Windows",
+    "name": "Windows",
     "traffic": {
       "January": 30000,
       "February": 29000,
@@ -68,7 +68,7 @@
     }
   },
   {
-    "device": "Android",
+    "name": "Android",
     "traffic": {
       "January": 28000,
       "February": 27000,
@@ -85,7 +85,7 @@
     }
   },
   {
-    "device": "Other",
+    "name": "Other",
     "traffic": {
       "January": 10000,
       "February": 9800,
