@@ -1,0 +1,104 @@
+[
+  {
+    "device": "Linux",
+    "traffic": {
+      "January": 5000,
+      "February": 4800,
+      "March": 5100,
+      "April": 4900,
+      "May": 5200,
+      "June": 5300,
+      "July": 5400,
+      "August": 5500,
+      "September": 5200,
+      "October": 5100,
+      "November": 4900,
+      "December": 5000
+    }
+  },
+  {
+    "device": "Mac",
+    "traffic": {
+      "January": 15000,
+      "February": 14800,
+      "March": 15100,
+      "April": 14900,
+      "May": 15200,
+      "June": 15300,
+      "July": 15400,
+      "August": 15500,
+      "September": 15200,
+      "October": 15100,
+      "November": 14900,
+      "December": 15000
+    }
+  },
+  {
+    "device": "iOS",
+    "traffic": {
+      "January": 25000,
+      "February": 24800,
+      "March": 25100,
+      "April": 24900,
+      "May": 25200,
+      "June": 25300,
+      "July": 25400,
+      "August": 25500,
+      "September": 25200,
+      "October": 25100,
+      "November": 24900,
+      "December": 25000
+    }
+  },
+  {
+    "device": "Windows",
+    "traffic": {
+      "January": 30000,
+      "February": 29000,
+      "March": 31000,
+      "April": 30000,
+      "May": 32000,
+      "June": 33000,
+      "July": 34000,
+      "August": 35000,
+      "September": 32000,
+      "October": 31000,
+      "November": 30000,
+      "December": 31000
+    }
+  },
+  {
+    "device": "Android",
+    "traffic": {
+      "January": 28000,
+      "February": 27000,
+      "March": 29000,
+      "April": 28000,
+      "May": 30000,
+      "June": 31000,
+      "July": 32000,
+      "August": 33000,
+      "September": 30000,
+      "October": 29000,
+      "November": 28000,
+      "December": 29000
+    }
+  },
+  {
+    "device": "Other",
+    "traffic": {
+      "January": 10000,
+      "February": 9800,
+      "March": 10100,
+      "April": 9900,
+      "May": 10200,
+      "June": 10300,
+      "July": 10400,
+      "August": 10500,
+      "September": 10200,
+      "October": 10100,
+      "November": 9900,
+      "December": 10000
+    }
+  }
+]
